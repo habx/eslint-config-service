@@ -1,0 +1,39 @@
+# Npm
+
+node_modules
+
+# Editor
+
+.idea
+
+# Build
+
+bin
+dist
+
+# Tests
+
+coverage
+
+# Environment
+
+*.debug
+.env
+
+# Build infos
+
+build.json
+version.txt
+
+# Private configs files
+
+*.private.json
+scripts/config/*.json
+
+# Data
+
+*.backup
+
+# MacOS
+
+.DS_Store

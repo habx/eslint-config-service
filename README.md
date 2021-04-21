@@ -1,0 +1,1 @@
+# Generic services library template
