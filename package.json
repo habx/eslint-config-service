@@ -3,11 +3,6 @@
   "version": "1.0.3",
   "description": "Habx eslint configuration for services",
   "main": "index.js",
-  "files": [
-    ".eslintrc.js",
-    "index.js"
-  ],
-  "scripts": {},
   "keywords": [
     "eslint",
     "habx",
