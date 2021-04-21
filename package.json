@@ -2,7 +2,7 @@
   "name": "@habx/eslint-config-service",
   "version": "1.1.0",
   "description": "Habx eslint configuration for services",
-  "scripts": {},
+  "main": "index.js",
   "keywords": [
     "eslint",
     "habx",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/habx/eslint-config-service#readme",
   "author": "Fabien COTE",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.15.0",
