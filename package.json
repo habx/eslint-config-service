@@ -1,6 +1,6 @@
 {
   "name": "@habx/eslint-config-service",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Habx eslint configuration for services",
   "main": "index.js",
   "keywords": [
