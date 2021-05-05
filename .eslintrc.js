@@ -62,7 +62,6 @@ module.exports = {
         'prefer-template': true,
       },
     ],
-    '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unused-vars': [
       'error',
       {
