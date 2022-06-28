@@ -89,7 +89,7 @@ jobs:
       - run: npm publish
 
 orbs:
-  node: circleci/node@1.0.1
+  node: circleci/node@5.0.2
 # --- END --- #
 # --------------------------------------------------- #
 # -------------- DEFINE YOUR WORKFLOW --------------- #
