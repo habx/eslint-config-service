@@ -1,3 +1,3 @@
 # https://github.com/habx/devops-repo-shared-configs/blob/dev/github-settings/ts-service.yml
 # last_update: 2022-08-22
-_extends: devops-repo-shared-configs:github-settings/ts-service.yml
+_extends: devops-repo-shared-configs:github-settings/ts-service-no-codecov.yml
